@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nazarko55
+- 👋 Hi, I’m Nazar Sykyrynkiy
 - 👀 I’m interested in programming, development)
-- 🌱 I’m currently learning React.js, JavaScript
+- 🌱 I’m currently learning React.js, React-Native, JavaScript.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Write me to email sikirinskijn@gmail.com
 
 <!---
 nazarko55/nazarko55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
